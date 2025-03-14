@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   
   
-  />
+
 </p>
 <p>
 Part 1: Admin Configuration and Ticket Creation (as End User)
