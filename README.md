@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [osTicket - Ticket Lifecycle: Intake Through Resolution](https://youtu.be/qOI06EtkkjA?si=YTfbALvOp-XWsPee)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -31,7 +31,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+  ![Part3Part1](https://github.com/user-attachments/assets/5f15d828-a922-45a4-92b0-c202033a0cf7)
+
+
+  
+  
+  />
 </p>
 <p>
 Part 1: Admin Configuration and Ticket Creation (as End User)
@@ -64,7 +71,12 @@ Try viewing the ticket again as john. Can changes be made?
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+![Part3Part2](https://github.com/user-attachments/assets/160f609f-4831-4198-8fb2-42619abffbe8)
+
+
+
 </p>
 <p>
 Part 2: Handling Additional Tickets and Working as Help Desk Agent
@@ -86,6 +98,20 @@ Department: Support.
 Work the Ticket to Completion (as Help Desk Agent - john):
 
 Resolve the ticket as john.
+
+
+</p>
+<br />
+
+<p>
+
+
+![Part3Part3](https://github.com/user-attachments/assets/3ff69c5a-d3e9-4032-a41f-2c57a4840d46)
+
+
+
+</p>
+<p>
 Create New Ticket (as End User):
 
 Create a ticket regarding CFO’s laptop not turning on.
@@ -97,26 +123,6 @@ Department: Support.
 Work the Ticket to Completion (as Help Desk Agent - john):
 
 Resolve the ticket as john.
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Part 3: Access Control and Final Ticket Observations
-Set SEV-A Properties to All Tickets:
-
-Change all tickets to Sev-A (SysAdmins last).
-Observe ticket becomes inaccessible (indicating restricted access).
-Admin Panel Adjustments:
-
-Assign yourself View-access to SysAdmins in the admin panel.
-Revisit the Ticket (as Help Desk Agent - john):
-
-Go back to the escalated ticket in the agent panel and observe that you can no longer make changes to it.
-Final Resolution:
 
 Solve all tickets and ensure they are marked as resolved/completed.
 </p>
